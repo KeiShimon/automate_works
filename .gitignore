@@ -1,3 +1,7 @@
+# outputs created by scripts
+日次定例動作確認_テスト注文.txt
+日次定例動作確認_オーダー管理・シェアデリ自動差配.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
